@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/parabell/static/css/main.018d1a38.css",
+    "main.js": "/parabell/static/js/main.b5ef0eb1.js",
+    "static/js/488.d3864d41.chunk.js": "/parabell/static/js/488.d3864d41.chunk.js",
+    "static/media/logo_blanco_1.avif": "/parabell/static/media/logo_blanco_1.401981571722a36ad86f.avif",
+    "index.html": "/parabell/index.html",
+    "main.018d1a38.css.map": "/parabell/static/css/main.018d1a38.css.map",
+    "main.b5ef0eb1.js.map": "/parabell/static/js/main.b5ef0eb1.js.map",
+    "488.d3864d41.chunk.js.map": "/parabell/static/js/488.d3864d41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.018d1a38.css",
+    "static/js/main.b5ef0eb1.js"
+  ]
+}
