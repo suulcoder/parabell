@@ -48,8 +48,8 @@ body {
 }
 
 .section {
-  padding: 2rem;
-  margin: 2rem;
+  padding: 1rem;
+  margin: 1rem;
 }
 
 .buttons {
@@ -61,8 +61,8 @@ body {
   border-radius: 3.75rem;
   color: rgb(255, 255, 255,1);
   display: inline-block;
-  margin: 0.5rem;
-  min-width: 120px;
+  margin: 0.4rem;
+  min-width: 200px;
   outline-color: rgb(226, 33, 32);
   padding: 1rem 2rem;
   text-align: center;

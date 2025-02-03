@@ -26,8 +26,8 @@ function App() {
           <div className="prose"><p class="h1">JUST MOVE BETTER</p></div>
           <div className="message"><p class="h1">Choose your location:</p></div>
           <div className='buttons'>
-            <a class="button button--xl" href="https://the-paraball.eu">Europe</a>
-            <a class="button button--xl" href="https://the-paraball.com"> USA </a>
+            <a class="button button--xl" href="https://the-paraball.eu">Europe and UK</a>
+            <a class="button button--xl" href="https://the-paraball.com">USA and rest of the world</a>
           </div>
         </div>
       </div>
